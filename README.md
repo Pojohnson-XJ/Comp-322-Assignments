@@ -1,3 +1,2 @@
-# Hello-World
-This repository is for practising the GitHub Flow.
-IS ME
+# Assignments for Comp 322 
+Pernell Johnson
